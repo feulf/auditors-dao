@@ -1,2 +1,2 @@
 # auditors-dao
-List of auditors channel
+List of auditors telegram channel
